@@ -1,13 +1,12 @@
 {
   "name": "eatdaburger",
   "version": "1.0.0",
-  "description": "### Overview",
+  "description": "homework submission",
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
-    "mysql": "^2.17.1",
-    "node": "^12.3.1"
+    "mysql": "^2.17.1"
   },
   "engines": {
     "node": "11.14.0"
