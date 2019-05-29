@@ -1,0 +1,40 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "description": "### Overview",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.17.1",
+    "node": "^12.3.1"
+  },
+  "engines": {
+    "node": "11.14.0"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overbysara/EatDaBurger.git"
+  },
+  "keywords": [
+    "Node.js",
+    "express",
+    "express-handlebars",
+    "body-parser",
+    "MySQL",
+    "method-override"
+  ],
+  "author": "Sara Overby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overbysara/EatDaBurger/issues"
+  },
+  "homepage": "https://github.com/overbysara/EatDaBurger#readme"
+}
